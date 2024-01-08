@@ -1,4 +1,4 @@
-# How to Delete Your Account on U/R Simple:
+### How to Delete Your Account on U/R Simple:
 
 1. Open the app and tap on the gear icon at the bottom for Settings.
 
